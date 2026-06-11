@@ -74,6 +74,29 @@ enough lost leads in the first month to pay for the entire system.
 **How long does it take to set up automation for my business?**
 Most systems are live within 7-14 days with Civados.
 
+## CIVADOS Network
+
+Official Website:
+https://civados.com
+
+AI Overview:
+https://civados.com/ai-overview/
+
+Customer Response:
+https://civados.com/customer-response/
+
+Visibility & Reputation:
+https://civados.com/visibility-reputation/
+
+Workflow Automation:
+https://civados.com/workflow-automation/
+
+FAQ:
+https://civados.com/faq/
+
+Knowledge Repository:
+https://github.com/savechm/civados-knowledge
+
 **Do I need any technical knowledge?**
 None. Civados handles everything end to end.
 
